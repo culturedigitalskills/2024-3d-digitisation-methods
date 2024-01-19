@@ -29,9 +29,13 @@ All have their own advantages and disadvantages.
 Some of the main considerations that you should take into account when exploring
 appropriate solutions within your project for 3D digitisation include:
 
-- Time
-- Cost
-- Scope
+
+
+|   |
+|---|
+| ![Time Cost Scope triangle icon. Clipart image isolated on white background](https://data.d4science.org/shub/E_eWs2ekpXTTFUWE1pVDZhREhlK0NsVzVlTkRweXpMWTJxVEF0ZHNjODVjQTN0bk8vNFNFZWVVZm5vT0lmU29ZRQ==) |
+| Time Cost Scope triangle icon. Clipart image isolated on white background, © by dzm1try under Education License from Adobe stock | 
+
 
 All these, as well as issues around data sovereignty, Intellectual Property Rights (IPR)
 and ethics will define the quality, reach and potential impact of the project.
