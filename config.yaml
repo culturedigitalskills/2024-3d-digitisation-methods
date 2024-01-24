@@ -11,7 +11,7 @@
 carpentry: 'incubator'
 
 # Overall title for pages.
-title: '2024-3d-digitisation-methods'
+title: 'Digitisation Methods for Material Culture'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
 created: '2024-01-18'
@@ -27,13 +27,13 @@ life_cycle: 'pre-alpha'
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://example.com/FIXME-template-source'
+source: 'https://github.com/culturedigitalskills/2024-3d-digitisation-methods'
 
 # Default branch of your lesson
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'team@carpentries.org'
+contact: 'K.Rodriguez@brighton.ac.uk'
 
 # Navigation ------------------------------------------------
 #
@@ -59,7 +59,8 @@ contact: 'team@carpentries.org'
 
 # Order of episodes in your lesson
 episodes: 
-- introduction.Rmd
+- methods.Rmd
+- types-of-media.Rmd
 
 # Information for Learners
 learners: 
