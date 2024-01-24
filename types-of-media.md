@@ -1,7 +1,7 @@
 ---
 title: 'Types of media'
-teaching: 10
-exercises: 2
+teaching: 50
+exercises: 10
 ---
 :::::::::::::::::::::::::::::::::::::: questions 
 
