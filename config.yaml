@@ -58,18 +58,18 @@ contact: 'K.Rodriguez@brighton.ac.uk'
 # - another-learner.md
 
 # Order of episodes in your lesson
-episodes: 
-- methods.Rmd
+episodes:
 - types-of-media.Rmd
+- methods.Rmd
 
 # Information for Learners
-learners: 
+learners:
 
 # Information for Instructors
-instructors: 
+instructors:
 
 # Learner Profiles
-profiles: 
+profiles:
 
 # Customisation ---------------------------------------------
 #
