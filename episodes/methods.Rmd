@@ -1,30 +1,24 @@
 ---
-title: 'Introduction'
-teaching: 10
-exercises: 2
+title: '3D Digitisation methods'
+teaching: 60
+exercises: 0
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- What are the different techniques for producing 3D models of cultural heritage objects and enviornments?
+- List various techniques to create 3D models
+of objects and environments.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::: objectives
 
-- Shows various techniques that can be applied to capture real world objects and environments.
-
-<!-- - Advantages and disadvantages for the use of this techniques.-->
-
-::::::::::::::::::::::::::::::::::::::::::::::::
+## 3D Digitisation Methods
 
 
-## Introduction to 3D Digitisation Methods
 
+Many methods exist that aim to create a 3D model of objects and environments in Cultural Heritage. 
 
-Many methods exist that aim to create a 3d model of objects and environment in Cultural Heritage. 
-
-All have their own advantages and disadvantages.
+All have their advantages and disadvantages.
 
 Some of the main considerations that you should take into account when exploring
 appropriate solutions within your project for 3D digitisation include:
@@ -47,14 +41,14 @@ and ethics will define the quality, reach and potential impact of the project.
 
 ## 3D Borned data
 
-### Laser based scanners (long, medium, short range)
+### Laser-based scanners (long, medium, short range)
 
-There are various methods used in laser scanning (Time of flight, Phase shift, Triangulation). All of them are applied in different situations depending on the distance of an object to record and also depending on the condition of the environment. The most common method when recording long and medium range is called LIDAR (Light Detection and Ranging) which is applied usually when recording large landscapes or buildings. In this case the sensor on the laser calculates the time that it takes for the light of the laser to return to the sensor thus providing 3d coordinates of each recorded point.  When recording individual objects instead, short range scanners are more used applying triangulation techniques which return to the sensor in a specific location. 
+There are various methods used in laser scanning (Time of flight, Phase shift, Triangulation). All of them are applied in different situations depending on the distance of an object to record and also depending on the condition of the environment. The most common method when recording long and medium ranges is called LIDAR (Light Detection and Ranging) which is applied usually when recording large landscapes or buildings. In this case, the sensor on the laser calculates the time that it takes for the light of the laser to return to the sensor thus providing 3d coordinates of each recorded point.  When recording individual objects instead, short-range scanners are more used applying triangulation techniques which return to the sensor in a specific location. 
 
 |   |   |
 |---|---|
 | ![Cyark Tudor Place 3](https://upload.wikimedia.org/wikipedia/commons/4/4b/Cyark_Tudor_Place_3.jpg) | ![FARO Laserscanner LS](https://upload.wikimedia.org/wikipedia/commons/8/85/FARO_Laserscanner_LS.JPG){width="60%"} |
-| 3D Laser Scan data cutaway of the interior of Tudor Place. The Parlour, Saloon and the Drawing Room can be seen in this scan data, Public domain, CyArk, under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cyark_Tudor_Place_3.jpg) |FARO Laser Scanner LS, FARO Technologies, under [ CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:FARO_Laserscanner_LS.JPG) | 
+| 3D Laser Scan data cutaway of the interior of Tudor Place. The Parlour, Saloon and Drawing Room can be seen in this scan data, Public domain, CyArk, under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cyark_Tudor_Place_3.jpg) |FARO Laser Scanner LS, FARO Technologies, under [ CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:FARO_Laserscanner_LS.JPG) | 
 
 
 |   |   |
@@ -65,16 +59,16 @@ There are various methods used in laser scanning (Time of flight, Phase shift, T
 |   |
 |---|
 | ![VIUscan handheld 3D scanner in use](https://upload.wikimedia.org/wikipedia/commons/2/26/VIUscan_handheld_3D_scanner_in_use.jpg) |
-| Making a 3D-model of an Viking belt buckle using a hand held VIUscan 3D laser scanner. As the device uses a laser scanner to create a 3D model it also uses a camera to accurately texture map the object, Creative Tools from Halmdstad, Sweden, under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:VIUscan_handheld_3D_scanner_in_use.jpg) |
+| Making a 3D model of a Viking belt buckle using a handheld VIUscan 3D laser scanner. As the device uses a laser scanner to create a 3D model it also uses a camera to accurately texture map the object, Creative Tools from Halmdstad, Sweden, under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:VIUscan_handheld_3D_scanner_in_use.jpg) |
 
 
-> In-depth theory on laser scanning is out of the scope of this workshop and a more comprensive picture of what is laser scanning can be found at the [**ADS website**](https://archaeologydataservice.ac.uk/help-guidance/guides-to-good-practice/data-collection-and-fieldwork/laser-scanning-for-archaeology/introduction/what-is-laser-scanning/) along its usage for cultural heritage and archaeological environments.
+> In-depth theory on laser scanning is out of the scope of this workshop and a more comprehensive picture of what is laser scanning can be found at the [**ADS website**](https://archaeologydataservice.ac.uk/help-guidance/guides-to-good-practice/data-collection-and-fieldwork/laser-scanning-for-archaeology/introduction/what-is-laser-scanning/) along its usage for cultural heritage and archaeological environments.
 
 \
 \
 
 ### Arm-based scanners
-This types of scanner are manually operated by tracing the object for digitization. They are quite time consuming and deployed when a very precise digitization is required, such as small fragments of pottery and other small objects.
+This types of scanner are manually operated by tracing the object for digitization. They are quite time-consuming and deployed when very precise digitization is required, such as small fragments of pottery and other small objects.
 
 |   |
 |---|
@@ -93,7 +87,7 @@ This types of scanner are manually operated by tracing the object for digitizati
 \
 
 ### Structured light scanners 
-This method uses a more affordable way of recording 3d object by projecting a pattern onto the object. The canera(S) will record the distorted pattern on a non-flat surface thus determing the 3d shape of the oject.
+This method uses a more affordable way of recording 3d objects by projecting a pattern onto the object. The camera (S) will record the distorted pattern on a non-flat surface thus determining the 3d shape of the object.
 
 |   |   |
 |---|---|
@@ -104,17 +98,17 @@ This method uses a more affordable way of recording 3d object by projecting a pa
 \
 
 ### MRI (Magnetic Resonance Imaging)
-This type of scanning records the exterior and the interior of an object and is used mostly in medicine to record  or full body or body parts, however it can also be used to record pottery if volumetric data are required.
+This type of scanning records the exterior and the interior of an object and is used mostly in medicine to record full body or body parts, however, it can also be used to record pottery if volumetric data are required.
 
 |   |   |
 |---|---|
 | ![US Navy 110427-N-2531L-135 Tori Randall, Ph.D. prepares a 550-year old Peruvian child mummy for a CT scan](https://upload.wikimedia.org/wikipedia/commons/9/9a/US_Navy_110427-N-2531L-135_Tori_Randall%2C_Ph.D._prepares_a_550-year_old_Peruvian_child_mummy_for_a_CT_scan.jpg) | ![US Navy 110427-N-YY999-001 A CT scan of a Peruvian mummy taken at Naval Medical Center San Diego provides details of the muscular and skeletal stru](https://upload.wikimedia.org/wikipedia/commons/7/78/US_Navy_110427-N-YY999-001_A_CT_scan_of_a_Peruvian_mummy_taken_at_Naval_Medical_Center_San_Diego_provides_details_of_the_muscular_and_skeletal_stru.jpg) |
-| SAN DIEGO (April 27, 2011) Tori Randall, Ph.D., curator for the Department of Physical Anthropology at the San Diego Museum of Man, prepares a 550-year old Peruvian child mummy for a CT scan at Naval Medical Center San Diego. The medical center is the only medical facility in San Diego County with a Flash Dual Source 128 CT scanner that is Dual Energy capable. This unique capability uses two different energy sources to differentiate characteristics in tissue and bone beyond conventional CT imaging. (U.S. Navy photo by Mass Communication Specialist 3rd Class Samantha A. Lewis/Released), Public domain, Mass Communication Specialist 3rd Class Samantha A. Lewis under [CC BY 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:US_Navy_110427-N-2531L-135_Tori_Randall,_Ph.D._prepares_a_550-year_old_Peruvian_child_mummy_for_a_CT_scan.jpg) |SAN DIEGO (April 27, 2011) A CT scan of a Peruvian mummy taken at Naval Medical Center San Diego provides details of the muscular and skeletal structure. The mummy is part of a planned exhibit at the San Diego Museum of Man. The medical center is the only medical facility in San Diego County with a Flash Dual Source 128 CT scanner that is Dual Energy capable. This unique capability uses two different energy sources to differentiate characteristics in tissue and bone beyond conventional CT imaging. (U.S. Navy photo/Released), Public Domain, U.S. Navy photo, under [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:US_Navy_110427-N-YY999-001_A_CT_scan_of_a_Peruvian_mummy_taken_at_Naval_Medical_Center_San_Diego_provides_details_of_the_muscular_and_skeletal_stru.jpg) | 
+| SAN DIEGO (April 27, 2011) Tori Randall, Ph.D., curator for the Department of Physical Anthropology at the San Diego Museum of Man, prepares a 550-year-old Peruvian child mummy for a CT scan at Naval Medical Center San Diego. The medical centre is the only medical facility in San Diego County with a Flash Dual Source 128 CT scanner that is Dual Energy capable. This unique capability uses two different energy sources to differentiate characteristics in tissue and bone beyond conventional CT imaging. (U.S. Navy photo by Mass Communication Specialist 3rd Class Samantha A. Lewis/Released), Public domain, Mass Communication Specialist 3rd Class Samantha A. Lewis under [CC BY 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:US_Navy_110427-N-2531L-135_Tori_Randall,_Ph.D._prepares_a_550-year_old_Peruvian_child_mummy_for_a_CT_scan.jpg) |SAN DIEGO (April 27, 2011) A CT scan of a Peruvian mummy taken at Naval Medical Center San Diego provides details of the muscular and skeletal structure. The mummy is part of a planned exhibit at the San Diego Museum of Man. The medical centre is the only medical facility in San Diego County with a Flash Dual Source 128 CT scanner that is Dual Energy capable. This unique capability uses two different energy sources to differentiate characteristics in tissue and bone beyond conventional CT imaging. (U.S. Navy photo/Released), Public Domain, U.S. Navy photo, under [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:US_Navy_110427-N-YY999-001_A_CT_scan_of_a_Peruvian_mummy_taken_at_Naval_Medical_Center_San_Diego_provides_details_of_the_muscular_and_skeletal_stru.jpg) | 
 \
 \
 
 ### (3d)CT (3d Computed Tomography) 
-This method uses Xray in order to capture volumetric data trough slides the software then reconstruct the 3d model by assembling all the slides together.
+This method uses Xray to capture volumetric data through slides the software then reconstructs the 3d model by assembling all the slides.
 
 |   |   |
 |---|---|
@@ -125,19 +119,19 @@ This method uses Xray in order to capture volumetric data trough slides the soft
 \
 
 ### (3d)Ultrasound 
-This method is used in medicine to record vessels or human fetus. When recorded over time it is referred as 4d ultrasound with three spatial dimension and one time dimension.
+This method is used in medicine to record vessels or human fetuses. When recorded over time it is referred to as 4d ultrasound with three spatial dimensions and one time dimension.
 
 |   |   |
 |---|---|
-| ![3dultrasound 20 weeks](https://upload.wikimedia.org/wikipedia/commons/b/bf/3dultrasound_20_weeks.jpg) | ![CRL Crown rump length 12 weeks ecografia Dr. Wolfgang Moroder](https://upload.wikimedia.org/wikipedia/commons/c/c7/CRL_Crown_rump_length_12_weeks_ecografia_Dr._Wolfgang_Moroder.jpg){width="80%"} | 
+| ![3dultrasound 20 weeks](https://upload.wikimedia.org/wikipedia/commons/b/bf/3dultrasound_20_weeks.jpg) | ![CRL Crown-rump length 12 weeks ecografia Dr. Wolfgang Moroder](https://upload.wikimedia.org/wikipedia/commons/c/c7/CRL_Crown_rump_length_12_weeks_ecografia_Dr._Wolfgang_Moroder.jpg){width="80%"} | 
 | A 3D ultrasound taken of a fetus at 20 weeks, Public domain, Staecker, under [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:3dultrasound_20_weeks.jpg) |Ultrasound image of the foetus a 30 weeks of pregnancy in a sagittal scan. Measurements of fetal Crown Rump Lenght (CRL), Public domain, Wolfgang Moroder, under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:CRL_Crown_rump_length_12_weeks_ecografia_Dr._Wolfgang_Moroder.jpg) |
 
 \
 \
 
-### Digital Acquisition trough 3d software
-Another recent interesting techniques comes from the blending of photogrammetry and 360 footage.
-In the video below we can it is explained how from 360 footgae we can extract 3d information of the content of the footage.
+### Digital Acquisition through 3d software
+Another recent interesting technique comes from the blending of photogrammetry and 360 footage.
+The video below explains how we can extract 3D models from the footage.
 
 |   | 
 |---|
