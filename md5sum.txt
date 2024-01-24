@@ -8,6 +8,6 @@
 "episodes/methods.Rmd" "06e5a2319d6a25ac08c4dffc1b35a17b" "site/built/methods.md" "2024-01-24"
 "instructors/instructor-notes.md" "decb9e4d74ef1fba68a552620b679df8" "site/built/instructor-notes.md" "2024-01-24"
 "learners/reference.md" "527a12e217602daae51c5fd9ef8958df" "site/built/reference.md" "2024-01-24"
-"learners/setup.md" "b745ed1b4f0c6aaf01349a89adca9e38" "site/built/setup.md" "2024-01-24"
+"learners/setup.md" "76653e9e034067da90620ff3241ad324" "site/built/setup.md" "2024-01-24"
 "profiles/learner-profiles.md" "5fe5bf7537072422b91ed393ada03f9a" "site/built/learner-profiles.md" "2024-01-24"
 "renv/profiles/lesson-requirements/renv.lock" "ce4e3d2cc313283deb3eb2369a8799d1" "site/built/renv.lock" "2024-01-24"
