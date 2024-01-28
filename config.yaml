@@ -59,6 +59,7 @@ contact: 'K.Rodriguez@brighton.ac.uk'
 
 # Order of episodes in your lesson
 episodes:
+- material-culture.Rmd
 - types-of-media.Rmd
 - methods.Rmd
 
