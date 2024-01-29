@@ -42,7 +42,7 @@ Key issues in studying material culture include:
 
 The contribution of material culture studies is also multifaceted. Its impact is evident in domains such as material citizenship (acknowledging the politics of things); stewardship (caring for culturally significant items); insightful scholarship on the history of object-making and usage; creativity in material culture; and fostering common ground between the public and academia.
 
-### Approaches towards material culture
+## Approaches towards material culture
 
 The two main approaches towards objects and material culture, identified by Bernard Herman (1992) are the "object-centred" approach, which focuses on the physical attributes of the object itself, and the "object-driven" approach, which emphasises understanding how objects relate to the cultures and peoples that create and use them. These approaches involve detailed description and contextualisation, respectively.
 
