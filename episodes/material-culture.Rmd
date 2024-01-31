@@ -6,7 +6,7 @@ exercises: 2
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- This session explores material culture and various approaches for studying objects, while also looking at the use of media to represent information related to material culture.
+- This section is dedicated to material culture and its study. Here we will also examine various approaches for studying and communicating information about objects.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
