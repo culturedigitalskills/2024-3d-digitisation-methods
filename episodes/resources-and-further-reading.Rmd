@@ -1,111 +1,30 @@
 ---
 title: 'Resources and Further Reading'
-teaching: 10
-exercises: 2
+teaching: 0
+exercises: 0
 ---
-
-:::::::::::::::::::::::::::::::::::::: questions 
-
-- How do you write a lesson using R Markdown and `{sandpaper}`?
-
-::::::::::::::::::::::::::::::::::::::::::::::::
-
-::::::::::::::::::::::::::::::::::::: objectives
-
-- Explain how to use markdown with the new lesson template
-- Demonstrate how to include pieces of code, figures, and nested challenge blocks
-
-::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Introduction
-
-This is a lesson created via The Carpentries Workbench. It is written in
-[Pandoc-flavored Markdown][pandoc] for static files (with extension `.md`) and
-[R Markdown][r-markdown] for dynamic files that can render code into output
-(with extension `.Rmd`). Please refer to the [Introduction to The Carpentries
-Workbench][carpentries-workbench] for full documentation.
-
-What you need to know is that there are three sections required for a valid
-Carpentries lesson template:
-
- 1. `questions` are displayed at the beginning of the episode to prime the
-    learner for the content.
- 2. `objectives` are the learning objectives for an episode displayed with
-    the questions.
- 3. `keypoints` are displayed at the end of the episode to reinforce the
-    objectives.
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
-
-Inline instructor notes can help inform instructors of timing challenges
-associated with the lessons. They appear in the "Instructor View"
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-::::::::::::::::::::::::::::::::::::: challenge 
-
-## Challenge 1: Can you do it?
-
-What is the output of this command?
-
-```r
-paste("This", "new", "lesson", "looks", "good")
-```
-
-:::::::::::::::::::::::: solution 
-
-## Output
  
-```output
-[1] "This new lesson looks good"
-```
 
-:::::::::::::::::::::::::::::::::
+Archaeology Data Service. Guides to good practice: 3D models. Retrieved from: https://archaeologydataservice.ac.uk/help-guidance/guides-to-good-practice/data-analysis-and-visualisation/3d-models/aims-and-objectives/3d-models-in-archaeology/  
+
+Barreau, J.-B., Leroy Du Cardonnoy, E., Laroche, F., Madeleine, S., Mathieu, V., Granier, X., Mora, P., Pouyet, T., & Chayani, M. (2021, April 1). Specification Writing Guide : How To Manage a Project in 3D for Cultural Heritage. HAL Archives Ouvertes. https://hal.science/hal-03193142  
+
+Cultural Heritage Imaging. Overview of CHI technologies. Retrieved from: https://culturalheritageimaging.org/Technologies/Overview/  
+
+Digital Preservation Coalition and Artefactual Systems (2021). Preserving 3D Data Types Series. http://doi.org/10.7207/twgn21-14  
 
 
-## Challenge 2: how do you nest solutions within challenge blocks?
+European Commission- Expert Group on Digital Cultural Heritage and Europeana (2020). Basic principles and tips for 3D digitisation of cultural heritage. Retrieved from: https://digital-strategy.ec.europa.eu/en/library/basic-principles-and-tips-3d-digitisation-cultural-heritage 
 
-:::::::::::::::::::::::: solution 
+Gibson A. P. (2023). Medical imaging applied to heritage. The British journal of radiology, 96(1152), 20230611. https://doi.org/10.1259/bjr.20230611  
 
-You can add a line with at least three colons and a `solution` tag.
+Moore, J., Rountrey, A., & Hannah Scates Kettler. (2022). 3D Data Creation to Curation: Community Standards for 3D Data Preservation. Assoc. of College & Research Libraries. 
 
-:::::::::::::::::::::::::::::::::
-::::::::::::::::::::::::::::::::::::::::::::::::
+Papadopoulos, C. (2020). Course: Remaking Material Culture in 3D. dariahTeach: Open Educational Resources for the Digital Arts and Humanities. Retrieved from: https://teach.dariah.eu/course/view.php?id=55&section=0  
+ 
 
-## Figures
+Share 3D. Share 3D guidelines. Retrieved from: https://carare.gitbook.io/share-3d-guidelines/ 
 
-You can include figures generated from R Markdown:
+The London Charter (2009). The London Charter: For the Computer-Based Visualisation of Cultural Heritage. Retrieved from: https://londoncharter.org/fileadmin/templates/main/docs/london_charter_2_1_en.pdf  
 
-```{r pyramid, fig.alt = "pie chart illusion of a pyramid", fig.cap = "Sun arise each and every morning"}
-pie(
-  c(Sky = 78, "Sunny side of pyramid" = 17, "Shady side of pyramid" = 5), 
-  init.angle = 315, 
-  col = c("deepskyblue", "yellow", "yellow3"), 
-  border = FALSE
-)
-```
-Or you can use pandoc markdown for static figures with the following syntax:
-
-`![optional caption that appears below the figure](figure url){alt='alt text for
-accessibility purposes'}`
-
-![You belong in The Carpentries!](https://raw.githubusercontent.com/carpentries/logo/master/Badge_Carpentries.svg){alt='Blue Carpentries hex person logo with no text.'}
-
-## Math
-
-One of our episodes contains $\LaTeX$ equations when describing how to create
-dynamic reports with {knitr}, so we now use mathjax to describe this:
-
-`$\alpha = \dfrac{1}{(1 - \beta)^2}$` becomes: $\alpha = \dfrac{1}{(1 - \beta)^2}$
-
-Cool, right?
-
-::::::::::::::::::::::::::::::::::::: keypoints 
-
-- Use `.md` files for episodes when you want static content
-- Use `.Rmd` files for episodes when you need to generate output
-- Run `sandpaper::check_lesson()` to identify any issues with your lesson
-- Run `sandpaper::build_lesson()` to preview your lesson locally
-
-::::::::::::::::::::::::::::::::::::::::::::::::
-
+ 
