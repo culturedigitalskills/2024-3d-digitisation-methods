@@ -15,7 +15,7 @@ exercises: 0
 
 3D digitisation has a rich history dating back to the 1960s, originating from the pioneering work at MIT in computer-aided design. However, over the past few decades, it has progressively evolved into a widespread practice, driven by improved accessibility and affordability of hardware and software systems used for acquiring, processing, and visualising 3D data. 
 
-![CultLab3D: Automated Scanning Technology for 3D Digitisation &copy; by Project Leader: M.Sc. Inform. Pedro Santos, Head of Competence Center for Cultural Heritage Digitization at Fraunhofer Institute for Computer Graphics Research IGD - European Heritage Awards Archive, Austria under CC0 Public Domain from [Europeana](https://www.europeana.eu/item/945/EHA_EUROPEANHERITAGEAWARDSARCHIVEEU_000000001396)](fig/cultlab.jpg){alt="digitisation rig."}
+![CultLab3D: Automated Scanning Technology for 3D Digitisation &copy; by Project Leader: M.Sc. Inform. Pedro Santos, Head of Competence Center for Cultural Heritage Digitization at Fraunhofer Institute for Computer Graphics Research IGD - European Heritage Awards Archive, Austria under CC0 Public Domain from [Europeana](https://www.europeana.eu/item/945/EHA_EUROPEANHERITAGEAWARDSARCHIVEEU_000000001396)](fig/cultlab.jpeg){alt="digitisation rig."}
 
 
 Like with many technologies, the heritage domain has served as a valuable testing ground for exploring different equipment, workflows, and methods to visualise and interact with digital heritage assets. 
