@@ -17,6 +17,7 @@ exercises: 0
 
 ![CultLab3D: Automated Scanning Technology for 3D Digitisation &copy; by Project Leader: M.Sc. Inform. Pedro Santos, Head of Competence Center for Cultural Heritage Digitization at Fraunhofer Institute for Computer Graphics Research IGD - European Heritage Awards Archive, Austria under CC0 Public Domain from [Europeana](https://www.europeana.eu/item/945/EHA_EUROPEANHERITAGEAWARDSARCHIVEEU_000000001396)](fig/Europeana.eu-945-EHA_EUROPEANHERITAGEAWARDSARCHIVEEU_000000001396-bb0911553ef222706c10af8947d6ced9.jpg){alt="digitisation rig."}
 
+
 Like with many technologies, the heritage domain has served as a valuable testing ground for exploring different equipment, workflows, and methods to visualise and interact with digital heritage assets. 
 
 The primary advantage of 3D digitised assets lies in the inherent nature of their multidimensional data, which can be easily manipulated for detailed study or to highlight specific attributes, exchanged via the web, and experienced by the public through a diverse range of online and offline applications. 
