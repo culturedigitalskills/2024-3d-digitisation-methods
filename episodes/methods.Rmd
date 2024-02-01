@@ -1,5 +1,5 @@
 ---
-title: 'Context'
+title: '3D Digitisation methods'
 teaching: 60
 exercises: 0
 ---
@@ -11,7 +11,7 @@ exercises: 0
 :::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-## 3D Digitisation Methods
+## Context
 
 3D digitisation has a rich history dating back to the 1960s, originating from the pioneering work at MIT in computer-aided design. However, over the past few decades, it has progressively evolved into a widespread practice, driven by improved accessibility and affordability of hardware and software systems used for acquiring, processing, and visualising 3D data. 
 
@@ -65,7 +65,7 @@ Access and download the [Digitisation Planner](https://www.heritagefund.org.uk/s
 
 Go through the sections of the planner (sheet 1 and 2) and try to respond to the proposed questions. 
 
-Are there any sections or questions where you need you need to put more effort into responding to within the context of your project? 
+Are there any sections or questions where you need to put more effort into responding to within the context of your project? 
 
 Try to articulate and write down some responses to these questions. 
 ::::::: 
