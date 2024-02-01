@@ -98,7 +98,7 @@ across websites giving an input image. See examples:
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
-## Challenge 1: Search for images
+## Challenge: Search for images
 
 Save the image below and navigate in your browser to [https://www.google.com/](https://www.google.com/).
 Using the camera image on the search bar, search for the image.
@@ -115,7 +115,7 @@ Finally, images are commonly stored using formats such such as:
 - *JPEG*, short for Joint Photographic Experts Group, and *PNG*, short for
 *Portable Network Graphics* formats compress
 pixel information making the files size smaller.
-- *TIFF*, short for Tag Image File Format, 
+- *TIFF*, short for *Tag Image File Format*, 
 stores non-compressed information, making the file size larger.
 
 Digital photography will make use
@@ -316,6 +316,7 @@ spatial data from images of the same object.-->
   height="500px"></iframe>
 [3D model from Kompakkt &copy; Jan Lutteroth, Corpus der brocken Deckenmalerei, Institut für Kunstgeschichte](https://kompakkt.de/entity/64181f0a07603d5bf4087497)
 
+This is a 3D model of an individual object. 
 
 <iframe src="https://visual.ariadne-infrastructure.eu/3d/reperto_05"
 allowfullscreen
@@ -323,7 +324,7 @@ allowfullscreen
   width="100%"
   height="500px">
 </iframe>
- [This is a 3D model of an individual object. &copy; Trozzella from VisualMedia Service](https://visual.ariadne-infrastructure.eu/3d/reperto_05)
+ [&copy; Trozzella (Messapian pottery) from VisualMedia Service](https://visual.ariadne-infrastructure.eu/3d/reperto_05)
 
 
 In many cases, the 3D data can be mostly points in 3D space as
