@@ -1,6 +1,6 @@
 ---
 title: '3D Digitisation methods'
-teaching: 60
+teaching: 30
 exercises: 0
 ---
 

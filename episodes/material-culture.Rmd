@@ -1,7 +1,7 @@
 ---
 title: 'Material Culture'
-teaching: 10
-exercises: 2
+teaching: 20
+exercises: 10
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
@@ -126,7 +126,10 @@ Essentially, object biographies offer a narrative framework for exploring the li
 
 :::: challenge
 
-Look at the different aspects of objects’ biographies and think about the objects that you study and document within the context of your research. What are the key aspects that you focus on and what is something that you would like to further expand on?
+Look at the different aspects of objects’ biographies and think about the objects that you study and document within the context of your research.
+
+What are the key aspects that you focus on and what is something that you would like to further expand on?
+
 :::: 
 
 
