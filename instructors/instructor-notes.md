@@ -1,54 +1,16 @@
+
 ---
 title: Instructor Notes
 ---
 
-## Aim of this session
 
-To learn about different types of digital data which can be used
-to record material culture.
+## Digital Skills in Visual and Material Culture - General Guidelines for Instructors
 
-The lesson presents basics on multi-dimensional data types,
-so learners understand the difference between formats, file storage types,
-as well as having basic literacy to name files. It allows
-learners to understand what is a 3D model, and the basics of
-its data structure.
+### Background
+These notes were produced as part of the [A Roadmap for a National Training Centre on Multidimensional Digital Media in the Arts and Humanities” project](https://culturedigitalskills.org/) (Grant No. AH/X007626/1) funded under the [UK's Arts and Humanities Research Council](https://www.ukri.org/councils/ahrc/) under the Embed digital skills in arts and humanities research scheme, which aims to address the digital skills gap within the arts and humanities research community. 
 
-The lesson also presents portable and non-portable 
-methods available for digitisation
-of information physical objects and environments, mostly recording
-surface details, including shape and colour in some cases.
+Our pilot addresses the need to upskill researchers and other communities worldwide, including practitioners in the Galleries, Libraries, Archives and Museum (GLAM), and creative industries, in the digitisation, processing, analysis, management, use and reuse of visual media. Interest in these activities is partly driven by the availability of devices, such as smartphones and web platforms to provide access to the content, as well as the potential of the data to support research, access, dissemination, and creative reuse. 
 
-## Learning outcome(s)
+![](../episodes/fig/colorlogo_centre.png){width=50% alt="logo"}
 
-By the end of this lessons learners will be able to:
-
-- Explain which are the different types of data. 
-- Describe the differences between raster and vectorised data types.
-- Communicating what is a 3D model.
-- List various techniques to create 3D models
-of objects and environments.
-
-
-## Prerequisite knowledge level
-
-Basic literacy on:
-
-- Digital photography
-- Image processing
-- Dealing with large amounts of files 
-
-
-## Targeted expertise level
-
-Basic to medium expertise on digital photography and handling information in PCs.
-
-
-
-<!--
-This is a new lesson built with [The Carpentries Workbench][workbench]. 
-
-
-[workbench]: https://carpentries.github.io/sandpaper-docs
-
--->
-## Setup and Structure
+Please visit: https://culturedigitalskills.org/instructor-notes/
