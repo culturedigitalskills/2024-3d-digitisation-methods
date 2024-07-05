@@ -1,7 +1,6 @@
 ---
 site: sandpaper::sandpaper_site
 ---
-# 3D Digitisation Methods for Material Culture
 
 ![&copy; muhammad AdobeStock](episodes/fig/AdobeStock_669719813.jpeg){alt="3D media"}
 
