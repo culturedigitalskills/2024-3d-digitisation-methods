@@ -5,7 +5,7 @@ site: sandpaper::sandpaper_site
 
 ![&copy; muhammad AdobeStock](episodes/fig/AdobeStock_669719813.jpeg){alt="3D media"}
 
-This lesson is an introduction to Digitisation Methods for Material Culture. The lesson explores basic topics with regards to the study of material culture, while also exploring types of media as means to communicate and share information about it. 
+This resource is an introduction to Digitisation Methods for Material Culture. The resource explores basic topics with regards to the study of material culture, while also looking at types of media as means to communicate and share information about it, as well as digitisation methods to capture material culture data.
 
 By the end of this lesson, learners will:
 
