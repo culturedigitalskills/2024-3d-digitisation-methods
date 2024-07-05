@@ -113,7 +113,7 @@ https://www.europeana.eu/item/794/ark__12148_bpt6k9798997w](fig/Europeana.eu-794
 Finally, images are commonly stored using formats such such as:
 
 - *JPEG*, short for Joint Photographic Experts Group, and *PNG*, short for
-*Portable Network Graphics* formats compress
+Portable Network Graphics formats compress
 pixel information making the files size smaller.
 - *TIFF*, short for *Tag Image File Format*, 
 stores non-compressed information, making the file size larger.
@@ -185,10 +185,7 @@ and displayed in the computer, we need to understand two concepts:
 **vector** and **raster** data.
 
 
-In this lesson, we won't cover how **3D models** are created.
-
-
-There are resources here to learn more about processes:
+There are resources here to learn more about processes for **3D model** production:
 
 - [CARARE Introduction to the 3D workflow](https://carare.gitbook.io/share-3d-guidelines/3d-process/context)
 - [Photogrammetry](https://sketchfab.com/blogs/community/how-to-set-up-a-successful-photogrammetry-project)

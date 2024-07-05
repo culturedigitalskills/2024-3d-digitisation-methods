@@ -153,4 +153,4 @@ The most popular RTI method is Highlight RTI which can be done by using a camera
 
 ![Visualising the relightable image of a cuneiform tablet from the Brighton Museum and Art Gallery using the RTI viewer software &copy; by the 3D Service Suite, University of Brighton under CC BY 4.0](fig/cun_tablet.png){width="80%"}
 
-Lastly, several examples of RTI can be viewed on the [dedicated website](https://vcg.isti.cnr.it/rti/webviewer.php) of the Visual Computing Lab of the CNR- ISTI research institute. 
+
