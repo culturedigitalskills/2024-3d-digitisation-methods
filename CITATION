@@ -1,12 +1,14 @@
 To reference information about this module, please cite:
 
 Karina Rodriguez Echavarria, Myrsini Samaroudi and Nicola Schiavottiello. "Digitisation Methods for Material Culture".
-2024.
+2024. https://doi.org/10.5281/zenodo.12687073
 
 @online{rodriguez-linked-multi-24,
   author      = {Karina {Rodriguez Echavarria} and Myrsini Samaroudi and Nicola Schiavottiello}
   title       = {Digitisation Methods for Material Culture},
   year        = {2024},
+url = {https://doi.org/10.5281/zenodo.12687073},
+doi = {10.5281/zenodo.12687073},
 }
 
 Title: Digitisation Methods for Material Culture
