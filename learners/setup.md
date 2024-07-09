@@ -15,3 +15,5 @@ The resource is built with [The Carpentries Workbench](https://carpentries.githu
 
 ![](../episodes/fig/colorlogo_centre.png){width=50% alt="logo"}
 
+### DOI  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12687073.svg)](https://doi.org/10.5281/zenodo.12687073)
